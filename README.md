@@ -133,10 +133,12 @@ The command will output an excel file: `{model_name}/{model_name}_{dataset_name}
 ## Citation
 
 ```bibtex
-@article{MMBench,
-    author  = {Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, Conghui He, Ziwei Liu, Kai Chen, Dahua Lin},
-    journal = {arXiv:2307.06281},
-    title   = {MMBench: Is Your Multi-modal Model an All-around Player?},
-    year    = {2023},
+@inproceedings{liu2024mmbench,
+  title={Mmbench: Is your multi-modal model an all-around player?},
+  author={Liu, Yuan and Duan, Haodong and Zhang, Yuanhan and Li, Bo and Zhang, Songyang and Zhao, Wangbo and Yuan, Yike and Wang, Jiaqi and He, Conghui and Liu, Ziwei and others},
+  booktitle={European conference on computer vision},
+  pages={216--233},
+  year={2024},
+  organization={Springer}
 }
 ```
